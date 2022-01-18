@@ -24,6 +24,7 @@ Original file is located at
 #
 # A BRIEF DESCRIPTION OF WHAT THE SCRIPT OR FUNCTION DOES
 # Determines min or max of inputted list through conditional/looped structure
+# Note: I do my coding in Google Colaboratory as opposed to IDLE, hence included message.
 
 55
 5# Intialise and append entries
